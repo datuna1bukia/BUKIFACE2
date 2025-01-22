@@ -1,0 +1,11 @@
+Flask
+Flask-WTF
+email-validator
+Flask-SQLAlchemy
+Flask-Login
+PIL
+secrets
+os
+flask_bcrypt
+flask_migrate
+gunicorn
